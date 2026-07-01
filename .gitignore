@@ -1,0 +1,17 @@
+venv/
+
+__pycache__/
+
+*.pyc
+
+.env
+
+data/faiss.index
+
+data/metadata.pkl
+
+.pytest_cache/
+
+.idea/
+
+.vscode/
